@@ -4,7 +4,7 @@ A classic Rock, Paper, Scissors game implemented in Python. Challenge yourself a
 
 How to Play:
 - Clone or download the repository.
-- Run the game using Python: `python rock_paper_scissors.py`
+- Run the game using Python: `main.py` or `enhanced.py`
 - Follow on-screen instructions to make your choice.
 - See if you can beat the computer!
 
