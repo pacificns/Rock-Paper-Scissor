@@ -8,7 +8,7 @@ How to Play:
 - Follow on-screen instructions to make your choice.
 - See if you can beat the computer!
 
-License: This project is open-source and released under the MIT License.
+License: This project is open-source.
 
 Project Status: Actively maintained.
 
